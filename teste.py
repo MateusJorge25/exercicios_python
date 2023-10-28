@@ -18,7 +18,7 @@
 """
 num1 = int(input("Digite o primeiro numero: "))
 
-                                                    # o input sempre le texto por isso, colocar int no começo 
+                                                    # o input sempre le texto por isso colocar int no começo 
 num2 = int(input("Digite o segundo numero: "))      # pode colocar float para pegar numeros com virgulas
 
 x = num1+num2
